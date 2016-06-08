@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:04.199970
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經會疏條箇
 #+PROPERTY: CBETA_ID X36n0658
 #+PROPERTY: ID KR6g0015
